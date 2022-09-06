@@ -1,4 +1,4 @@
-package co.edu.unal.tictactoe
+package com.example.tictactoe
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("co.edu.unal.tictactoe", appContext.packageName)
+        assertEquals("com.example.tictactoe", appContext.packageName)
     }
 }

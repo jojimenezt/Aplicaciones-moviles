@@ -1,4 +1,4 @@
-package co.edu.unal.tictactoe
+package com.example.tictactoe
 
 import org.junit.Test
 
