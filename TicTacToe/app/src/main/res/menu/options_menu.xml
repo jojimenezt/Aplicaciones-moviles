@@ -4,13 +4,13 @@
     <item
         android:id="@+id/new_game"
         android:icon="@drawable/new_game"
-        android:title="Nuevo Juego"/>
+        android:title="New Game"/>
     <item
         android:id="@+id/ai_difficulty"
         android:icon="@drawable/difficulty_level"
-        android:title="Dificultad"/>
+        android:title="Difficulty"/>
     <item
-        android:id="@+id/quit"
+        android:id="@+id/reset_scores"
         android:icon="@drawable/quit_game"
-        android:title="Salir"/>
+        android:title="Reset Scores"/>
 </menu>

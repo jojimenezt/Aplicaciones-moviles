@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android TicTacToe</string>
+    <string name="app_name">Triqui</string>
     <string name="difficulty_easy">Facil</string>
     <string name="difficulty_harder">Dificil</string>
     <string name="difficulty_expert">Experto</string>
