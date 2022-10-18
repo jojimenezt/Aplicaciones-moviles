@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reto10</string>
+    <string name="clas_prompt">Seleccione vitalidad</string>
+    <string-array name="clas_array">
+        <item>Seleccione vitalidad</item>
+        <item>Vulnerable</item>
+        <item>En peligro de extinción</item>
+        <item>En peligro</item>
+        <item>En situación critica</item>
+    </string-array>
+</resources>
